@@ -10,3 +10,7 @@ env.properties
 out/
 classes/
 gradle/wrapper/gradle-wrapper.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
