@@ -1,0 +1,12 @@
+.idea/
+*.iml
+.DS_Store
+.gradle/
+build/
+.gradletasknamecache
+env.properties
+*.ipr
+*.iws
+out/
+classes/
+gradle/wrapper/gradle-wrapper.properties
